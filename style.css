@@ -1,0 +1,12 @@
+body{
+    background-color: whitesmoke;
+    color: #333;
+}
+header{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+img{
+    width: 300px;
+}
